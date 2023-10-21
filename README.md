@@ -2,9 +2,14 @@
 
 ### 학습 내용
   - Swift 언어 학습
+  - Computer Science 기초 학습
   - UIKit과 관련된 프로젝트 진행
   - 팀 프로젝트를 진행하면서 의사소통 하는 방법
+  <br/>
+  <img src = "./Previews/Communication_Example.png" width = 500/>
   - 코드 리뷰를 통한 의사소통 방법
+  <br/>
+  <img src = "./Previews/PR_Example.png" width = 500>
 
 ### 프로젝트 몰아보기
 
